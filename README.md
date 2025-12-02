@@ -12,7 +12,4 @@ A small Python project to help me learn and practise **dictionaries**, including
 - User input handling
 - Data stored in nested dictionaries
 
-## Why I made this
-I'm learning Python and dictionaries are my weakest topic, so this project should help me build confidence 
-Chat GPT made this project for me.
 
